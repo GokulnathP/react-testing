@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: yarn.lock
+  checksum: a69239c7619297d1ec558b254272379d44280ec86daf6a7133c9c46f941d0ee1
+- filename: src/ImageViewer/ImageViewer.js
+  checksum: 2eadec6b46986efe231660309c21cf5353633e0db33e8a42a0ba14e880c0810f
+- filename: yarn.lock
+  checksum: 9e9fdd17323e7cbf69aec607c1fffaf817df5f68f75bbe518428d8767de8b02b
